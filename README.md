@@ -1,4 +1,4 @@
 - Hello, My name is @Elijah-Brown21
-- I’m interested in mobile app development and IOT
-- I’m currently learning Amazon Web Services and Python
+- I’m interested in machine learning, clinical programming, and appliction development.
+- I’m currently learning Javascript backend programming and API's.
 - You can contact me using this email: elijahd.brown21@gmail.com
